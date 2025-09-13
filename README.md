@@ -46,18 +46,21 @@ Descuentos aplicados y motivos.
 Precio final por persona o pareja.
 
 📂 Estructura del proyecto
+```bash
 IntergalacticCinema/
 │── Program.cs   # Código principal
 │── README.md    # Documentación del proyecto
+```
 
 🖥️ Ejecución
 
-Compila el proyecto en Rider, Visual Studio o usando la CLI de .NET:
+1. Compila el proyecto en Rider, Visual Studio o usando la CLI de .NET:
 
+```bash
 dotnet run
+```
 
-
-El programa pedirá los siguientes datos por consola:
+2. El programa pedirá los siguientes datos por consola:
 
 Edad
 
@@ -77,12 +80,12 @@ Si compra en pareja
 
 Precio base
 
-Obtendrás un recibo con el desglose de descuentos y el precio final.
+3. Obtendrás un recibo con el desglose de descuentos y el precio final.
 
 📋 Ejemplo de uso
 
 Entrada de consola:
-
+```pgsql
 Enter age: 65
 Enter movie type (release, classic, 3d, marathon, special): marathon
 Enter day (monday, tuesday,wednesday,thursday,friday,saturday,sunday): sunday
@@ -92,10 +95,10 @@ Is promo active? (true/false): true
 Is student? (true/false): false
 Couple ticket? (true/false): true
 Enter base price: 20
-
+```
 
 Salida:
-
+```yaml
 --- INTERGALACTIC CINEMA RECEIPT ---
 Base price: $20.00
 Age: 65, Type: marathon, Day: sunday, Time: afternoon, Membership: gold
@@ -110,7 +113,7 @@ Total discount applied: 70%
 Final ticket price: $6.00
 Total to pay (couple): $9.00
 ------------------------------------
-
+```
 🎯 Objetivo académico
 
 Este proyecto fue diseñado para:
@@ -123,16 +126,3 @@ Desarrollar lógica de negocio con múltiples excepciones.
 
 Generar salidas claras y organizadas para el usuario.
 
-🤝 Contribuciones
-
-Si quieres mejorar el código (nuevas reglas, optimización o interfaz gráfica), puedes:
-
-Hacer un fork del repositorio.
-
-Crear una rama nueva.
-
-Hacer un pull request con tus mejoras.
-
-📜 Licencia
-
-Este proyecto es de uso educativo y está disponible bajo la licencia MIT.
