@@ -9,41 +9,41 @@ Este proyecto aplica if anidados y reglas de negocio complejas para calcular el 
 
 ✔️ Calcula el precio final del boleto considerando:
 
-Edad (niño, adolescente, adulto, senior).
+- Edad (niño, adolescente, adulto, senior).
 
-Tipo de película (release, classic, 3d, marathon, special).
+- Tipo de película (release, classic, 3d, marathon, special).
 
-Día de la semana (monday → sunday).
+- Día de la semana (monday → sunday).
 
-Hora (morning, afternoon, night).
+- Hora (morning, afternoon, night).
 
-Membresía (none, silver, gold, platinum).
+- Membresía (none, silver, gold, platinum).
 
-Promoción activa (true/false).
+- Promoción activa (true/false).
 
-Condición de estudiante.
+- Condición de estudiante.
 
-Compra en pareja (50% en segunda boleta).
+- Compra en pareja (50% en segunda boleta).
 
 ✔️ Aplica reglas especiales como:
 
-Miércoles de descuento global.
+- Miércoles de descuento global.
 
-Restricciones de entrada por edad.
+- Restricciones de entrada por edad.
 
-Bloqueo de descuentos viernes/sábado en la noche.
+- Bloqueo de descuentos viernes/sábado en la noche.
 
-Descuentos acumulables por promociones o membresía.
+- Descuentos acumulables por promociones o membresía.
 
-Recargo en películas 3D (+10% después de descuentos).
+- Recargo en películas 3D (+10% después de descuentos).
 
 ✔️ Muestra un recibo detallado con:
 
-Precio base.
+- Precio base.
 
-Descuentos aplicados y motivos.
+- Descuentos aplicados y motivos.
 
-Precio final por persona o pareja.
+- Precio final por persona o pareja.
 
 📂 Estructura del proyecto
 ```bash
@@ -62,23 +62,23 @@ dotnet run
 
 2. El programa pedirá los siguientes datos por consola:
 
-Edad
+ - Edad
 
-Tipo de película
+ - Tipo de película
 
-Día de la semana
+ - Día de la semana
 
-Hora
+ - Hora
 
-Membresía
+ - Membresía
 
-Si hay promoción activa
+ - Si hay promoción activa
 
-Si es estudiante
+ - Si es estudiante
 
-Si compra en pareja
+ - Si compra en pareja
 
-Precio base
+ - Precio base
 
 3. Obtendrás un recibo con el desglose de descuentos y el precio final.
 
@@ -116,13 +116,13 @@ Total to pay (couple): $9.00
 ```
 🎯 Objetivo académico
 
-Este proyecto fue diseñado para:
+ - Este proyecto fue diseñado para:
 
-Practicar estructuras condicionales complejas (if anidados).
+ - Practicar estructuras condicionales complejas (if anidados).
 
-Manejar entradas desde consola en C#.
+ - Manejar entradas desde consola en C#.
 
-Desarrollar lógica de negocio con múltiples excepciones.
+ - Desarrollar lógica de negocio con múltiples excepciones.
 
-Generar salidas claras y organizadas para el usuario.
+ - Generar salidas claras y organizadas para el usuario.
 
