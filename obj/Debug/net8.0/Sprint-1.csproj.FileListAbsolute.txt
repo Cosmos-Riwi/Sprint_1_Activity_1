@@ -1,0 +1,14 @@
+/home/csharp/Documentos/Sprint-1/bin/Debug/net8.0/Sprint-1
+/home/csharp/Documentos/Sprint-1/bin/Debug/net8.0/Sprint-1.deps.json
+/home/csharp/Documentos/Sprint-1/bin/Debug/net8.0/Sprint-1.runtimeconfig.json
+/home/csharp/Documentos/Sprint-1/bin/Debug/net8.0/Sprint-1.dll
+/home/csharp/Documentos/Sprint-1/bin/Debug/net8.0/Sprint-1.pdb
+/home/csharp/Documentos/Sprint-1/obj/Debug/net8.0/Sprint-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/csharp/Documentos/Sprint-1/obj/Debug/net8.0/Sprint-1.AssemblyInfoInputs.cache
+/home/csharp/Documentos/Sprint-1/obj/Debug/net8.0/Sprint-1.AssemblyInfo.cs
+/home/csharp/Documentos/Sprint-1/obj/Debug/net8.0/Sprint-1.csproj.CoreCompileInputs.cache
+/home/csharp/Documentos/Sprint-1/obj/Debug/net8.0/Sprint-1.dll
+/home/csharp/Documentos/Sprint-1/obj/Debug/net8.0/refint/Sprint-1.dll
+/home/csharp/Documentos/Sprint-1/obj/Debug/net8.0/Sprint-1.pdb
+/home/csharp/Documentos/Sprint-1/obj/Debug/net8.0/Sprint-1.genruntimeconfig.cache
+/home/csharp/Documentos/Sprint-1/obj/Debug/net8.0/ref/Sprint-1.dll
