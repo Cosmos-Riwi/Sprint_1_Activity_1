@@ -1,0 +1,14 @@
+/home/csharp/Escritorio/Sprit-1/bin/Debug/net8.0/Sprit-1
+/home/csharp/Escritorio/Sprit-1/bin/Debug/net8.0/Sprit-1.deps.json
+/home/csharp/Escritorio/Sprit-1/bin/Debug/net8.0/Sprit-1.runtimeconfig.json
+/home/csharp/Escritorio/Sprit-1/bin/Debug/net8.0/Sprit-1.dll
+/home/csharp/Escritorio/Sprit-1/bin/Debug/net8.0/Sprit-1.pdb
+/home/csharp/Escritorio/Sprit-1/obj/Debug/net8.0/Sprit-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/csharp/Escritorio/Sprit-1/obj/Debug/net8.0/Sprit-1.AssemblyInfoInputs.cache
+/home/csharp/Escritorio/Sprit-1/obj/Debug/net8.0/Sprit-1.AssemblyInfo.cs
+/home/csharp/Escritorio/Sprit-1/obj/Debug/net8.0/Sprit-1.csproj.CoreCompileInputs.cache
+/home/csharp/Escritorio/Sprit-1/obj/Debug/net8.0/Sprit-1.dll
+/home/csharp/Escritorio/Sprit-1/obj/Debug/net8.0/refint/Sprit-1.dll
+/home/csharp/Escritorio/Sprit-1/obj/Debug/net8.0/Sprit-1.pdb
+/home/csharp/Escritorio/Sprit-1/obj/Debug/net8.0/Sprit-1.genruntimeconfig.cache
+/home/csharp/Escritorio/Sprit-1/obj/Debug/net8.0/ref/Sprit-1.dll
